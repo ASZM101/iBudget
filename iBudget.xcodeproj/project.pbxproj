@@ -11,6 +11,7 @@
 		20FFD2EF2A37EE24008D80B7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FFD2EE2A37EE24008D80B7 /* ContentView.swift */; };
 		20FFD2F12A37EE25008D80B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20FFD2F02A37EE25008D80B7 /* Assets.xcassets */; };
 		20FFD2F42A37EE25008D80B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20FFD2F32A37EE25008D80B7 /* Preview Assets.xcassets */; };
+		EA1AD5B52A3CB3E900A595FD /* Planner.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EA1AD5B32A3CB3E900A595FD /* Planner.xcdatamodeld */; };
 		EA918DD12A3BC66C00909E33 /* TipsBudget.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DCA2A3BC66C00909E33 /* TipsBudget.swift */; };
 		EA918DD22A3BC66C00909E33 /* TipsInvest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DCB2A3BC66C00909E33 /* TipsInvest.swift */; };
 		EA918DD32A3BC66C00909E33 /* TipsBanks.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DCC2A3BC66C00909E33 /* TipsBanks.swift */; };
@@ -36,6 +37,7 @@
 		20FFD2EE2A37EE24008D80B7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		20FFD2F02A37EE25008D80B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20FFD2F32A37EE25008D80B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EA1AD5B42A3CB3E900A595FD /* Planner.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Planner.xcdatamodel; sourceTree = "<group>"; };
 		EA918DCA2A3BC66C00909E33 /* TipsBudget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipsBudget.swift; sourceTree = "<group>"; };
 		EA918DCB2A3BC66C00909E33 /* TipsInvest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipsInvest.swift; sourceTree = "<group>"; };
 		EA918DCC2A3BC66C00909E33 /* TipsBanks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipsBanks.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 			isa = PBXGroup;
 			children = (
 				EACF2C302A3B69DA00E5CD6C /* tracker.xcdatamodeld */,
+				EA1AD5B32A3CB3E900A595FD /* Planner.xcdatamodeld */,
 				20FFD2F32A37EE25008D80B7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -230,6 +233,7 @@
 				EA918DD52A3BC66C00909E33 /* TipsCards.swift in Sources */,
 				EAF381982A3A262600FFFD8C /* HomePage.swift in Sources */,
 				EA918DE62A3BCE5C00909E33 /* Planner.swift in Sources */,
+				EA1AD5B52A3CB3E900A595FD /* Planner.xcdatamodeld in Sources */,
 				EACF2C2F2A3B69CC00E5CD6C /* Persistence.swift in Sources */,
 				EACF2C2B2A3B684E00E5CD6C /* NewMoneyView.swift in Sources */,
 				EA918DD42A3BC66C00909E33 /* TipsBasics.swift in Sources */,
@@ -435,6 +439,16 @@
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
+		EA1AD5B32A3CB3E900A595FD /* Planner.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				EA1AD5B42A3CB3E900A595FD /* Planner.xcdatamodel */,
+			);
+			currentVersion = EA1AD5B42A3CB3E900A595FD /* Planner.xcdatamodel */;
+			path = Planner.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
 		EACF2C302A3B69DA00E5CD6C /* tracker.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (

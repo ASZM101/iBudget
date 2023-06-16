@@ -9,7 +9,6 @@ import SwiftUI
 
 @main
 struct iBudgetApp: App {
-    let persistenceController = PersistenceController.shared
 
     var body: some Scene {
 

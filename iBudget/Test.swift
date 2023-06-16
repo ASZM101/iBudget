@@ -16,11 +16,11 @@ enum Tab: String, CaseIterable {
     case dollarsign = "dollarsign.circle"
     
     case lightbulb
+    
 }
 
 struct Test: View {
     let persistenceController = PersistenceController.shared
-    @Environment(\.openURL) var openURL
     @Binding var selectedTab: Tab
     private var fillImage: String {
         selectedTab.rawValue + ".fill"
