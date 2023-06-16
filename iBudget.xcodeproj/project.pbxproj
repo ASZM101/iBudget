@@ -11,6 +11,23 @@
 		20FFD2EF2A37EE24008D80B7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FFD2EE2A37EE24008D80B7 /* ContentView.swift */; };
 		20FFD2F12A37EE25008D80B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20FFD2F02A37EE25008D80B7 /* Assets.xcassets */; };
 		20FFD2F42A37EE25008D80B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20FFD2F32A37EE25008D80B7 /* Preview Assets.xcassets */; };
+		EA918DD12A3BC66C00909E33 /* TipsBudget.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DCA2A3BC66C00909E33 /* TipsBudget.swift */; };
+		EA918DD22A3BC66C00909E33 /* TipsInvest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DCB2A3BC66C00909E33 /* TipsInvest.swift */; };
+		EA918DD32A3BC66C00909E33 /* TipsBanks.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DCC2A3BC66C00909E33 /* TipsBanks.swift */; };
+		EA918DD42A3BC66C00909E33 /* TipsBasics.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DCD2A3BC66C00909E33 /* TipsBasics.swift */; };
+		EA918DD52A3BC66C00909E33 /* TipsCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DCE2A3BC66C00909E33 /* TipsCards.swift */; };
+		EA918DD62A3BC66C00909E33 /* Quiz.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DCF2A3BC66C00909E33 /* Quiz.swift */; };
+		EA918DD72A3BC66C00909E33 /* Tips.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DD02A3BC66C00909E33 /* Tips.swift */; };
+		EA918DE62A3BCE5C00909E33 /* Planner.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA918DE52A3BCE5C00909E33 /* Planner.swift */; };
+		EACF2C2B2A3B684E00E5CD6C /* NewMoneyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EACF2C2A2A3B684E00E5CD6C /* NewMoneyView.swift */; };
+		EACF2C2D2A3B690700E5CD6C /* Entries.swift in Sources */ = {isa = PBXBuildFile; fileRef = EACF2C2C2A3B690700E5CD6C /* Entries.swift */; };
+		EACF2C2F2A3B69CC00E5CD6C /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = EACF2C2E2A3B69CC00E5CD6C /* Persistence.swift */; };
+		EACF2C322A3B69DA00E5CD6C /* tracker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EACF2C302A3B69DA00E5CD6C /* tracker.xcdatamodeld */; };
+		EAF381922A3A25F500FFFD8C /* Tracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF381912A3A25F500FFFD8C /* Tracker.swift */; };
+		EAF381942A3A260500FFFD8C /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF381932A3A260500FFFD8C /* Calculator.swift */; };
+		EAF381982A3A262600FFFD8C /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF381972A3A262600FFFD8C /* HomePage.swift */; };
+		EAF3819C2A3A45B800FFFD8C /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF3819B2A3A45B800FFFD8C /* Test.swift */; };
+		EAF3819E2A3A45FA00FFFD8C /* ToolBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF3819D2A3A45FA00FFFD8C /* ToolBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +36,24 @@
 		20FFD2EE2A37EE24008D80B7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		20FFD2F02A37EE25008D80B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20FFD2F32A37EE25008D80B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EA918DCA2A3BC66C00909E33 /* TipsBudget.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipsBudget.swift; sourceTree = "<group>"; };
+		EA918DCB2A3BC66C00909E33 /* TipsInvest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipsInvest.swift; sourceTree = "<group>"; };
+		EA918DCC2A3BC66C00909E33 /* TipsBanks.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipsBanks.swift; sourceTree = "<group>"; };
+		EA918DCD2A3BC66C00909E33 /* TipsBasics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipsBasics.swift; sourceTree = "<group>"; };
+		EA918DCE2A3BC66C00909E33 /* TipsCards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipsCards.swift; sourceTree = "<group>"; };
+		EA918DCF2A3BC66C00909E33 /* Quiz.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Quiz.swift; sourceTree = "<group>"; };
+		EA918DD02A3BC66C00909E33 /* Tips.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tips.swift; sourceTree = "<group>"; };
+		EA918DE52A3BCE5C00909E33 /* Planner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Planner.swift; sourceTree = "<group>"; };
+		EACF2C2A2A3B684E00E5CD6C /* NewMoneyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewMoneyView.swift; sourceTree = "<group>"; };
+		EACF2C2C2A3B690700E5CD6C /* Entries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Entries.swift; sourceTree = "<group>"; };
+		EACF2C2E2A3B69CC00E5CD6C /* Persistence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		EACF2C312A3B69DA00E5CD6C /* tracker.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = tracker.xcdatamodel; sourceTree = "<group>"; };
+		EACF2C352A3B958100E5CD6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		EAF381912A3A25F500FFFD8C /* Tracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tracker.swift; sourceTree = "<group>"; };
+		EAF381932A3A260500FFFD8C /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
+		EAF381972A3A262600FFFD8C /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
+		EAF3819B2A3A45B800FFFD8C /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
+		EAF3819D2A3A45FA00FFFD8C /* ToolBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +86,13 @@
 		20FFD2EB2A37EE24008D80B7 /* iBudget */ = {
 			isa = PBXGroup;
 			children = (
+				EACF2C352A3B958100E5CD6C /* Info.plist */,
+				EAF3818E2A3A25DA00FFFD8C /* Views */,
 				20FFD2EC2A37EE24008D80B7 /* iBudgetApp.swift */,
+				EA918DE52A3BCE5C00909E33 /* Planner.swift */,
 				20FFD2EE2A37EE24008D80B7 /* ContentView.swift */,
+				EAF3819B2A3A45B800FFFD8C /* Test.swift */,
+				EAF3819D2A3A45FA00FFFD8C /* ToolBar.swift */,
 				20FFD2F02A37EE25008D80B7 /* Assets.xcassets */,
 				20FFD2F22A37EE25008D80B7 /* Preview Content */,
 			);
@@ -62,9 +102,46 @@
 		20FFD2F22A37EE25008D80B7 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				EACF2C302A3B69DA00E5CD6C /* tracker.xcdatamodeld */,
 				20FFD2F32A37EE25008D80B7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EA918DC92A3BC62300909E33 /* Tips */ = {
+			isa = PBXGroup;
+			children = (
+				EA918DCF2A3BC66C00909E33 /* Quiz.swift */,
+				EA918DD02A3BC66C00909E33 /* Tips.swift */,
+				EA918DCC2A3BC66C00909E33 /* TipsBanks.swift */,
+				EA918DCD2A3BC66C00909E33 /* TipsBasics.swift */,
+				EA918DCA2A3BC66C00909E33 /* TipsBudget.swift */,
+				EA918DCE2A3BC66C00909E33 /* TipsCards.swift */,
+				EA918DCB2A3BC66C00909E33 /* TipsInvest.swift */,
+			);
+			path = Tips;
+			sourceTree = "<group>";
+		};
+		EACF2C292A3B673E00E5CD6C /* Tracker  */ = {
+			isa = PBXGroup;
+			children = (
+				EAF381912A3A25F500FFFD8C /* Tracker.swift */,
+				EACF2C2E2A3B69CC00E5CD6C /* Persistence.swift */,
+				EACF2C2A2A3B684E00E5CD6C /* NewMoneyView.swift */,
+				EACF2C2C2A3B690700E5CD6C /* Entries.swift */,
+			);
+			path = "Tracker ";
+			sourceTree = "<group>";
+		};
+		EAF3818E2A3A25DA00FFFD8C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EA918DC92A3BC62300909E33 /* Tips */,
+				EACF2C292A3B673E00E5CD6C /* Tracker  */,
+				EAF381932A3A260500FFFD8C /* Calculator.swift */,
+				EAF381972A3A262600FFFD8C /* HomePage.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +214,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA918DD12A3BC66C00909E33 /* TipsBudget.swift in Sources */,
+				EAF3819E2A3A45FA00FFFD8C /* ToolBar.swift in Sources */,
+				EAF381922A3A25F500FFFD8C /* Tracker.swift in Sources */,
 				20FFD2EF2A37EE24008D80B7 /* ContentView.swift in Sources */,
+				EA918DD22A3BC66C00909E33 /* TipsInvest.swift in Sources */,
+				EACF2C322A3B69DA00E5CD6C /* tracker.xcdatamodeld in Sources */,
+				EA918DD62A3BC66C00909E33 /* Quiz.swift in Sources */,
 				20FFD2ED2A37EE24008D80B7 /* iBudgetApp.swift in Sources */,
+				EA918DD32A3BC66C00909E33 /* TipsBanks.swift in Sources */,
+				EAF381942A3A260500FFFD8C /* Calculator.swift in Sources */,
+				EA918DD72A3BC66C00909E33 /* Tips.swift in Sources */,
+				EAF3819C2A3A45B800FFFD8C /* Test.swift in Sources */,
+				EACF2C2D2A3B690700E5CD6C /* Entries.swift in Sources */,
+				EA918DD52A3BC66C00909E33 /* TipsCards.swift in Sources */,
+				EAF381982A3A262600FFFD8C /* HomePage.swift in Sources */,
+				EA918DE62A3BCE5C00909E33 /* Planner.swift in Sources */,
+				EACF2C2F2A3B69CC00E5CD6C /* Persistence.swift in Sources */,
+				EACF2C2B2A3B684E00E5CD6C /* NewMoneyView.swift in Sources */,
+				EA918DD42A3BC66C00909E33 /* TipsBasics.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +364,9 @@
 				DEVELOPMENT_TEAM = 4FT38P4D49;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = iBudget/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -299,9 +393,9 @@
 				DEVELOPMENT_TEAM = 4FT38P4D49;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = iBudget/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -339,6 +433,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		EACF2C302A3B69DA00E5CD6C /* tracker.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				EACF2C312A3B69DA00E5CD6C /* tracker.xcdatamodel */,
+			);
+			currentVersion = EACF2C312A3B69DA00E5CD6C /* tracker.xcdatamodel */;
+			path = tracker.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 20FFD2E12A37EE24008D80B7 /* Project object */;
 }
