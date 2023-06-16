@@ -24,7 +24,7 @@ struct Tips: View {
                     Text("Financial Literacy")
                         .font(.custom("GillSans-Bold", fixedSize: 40))
                         .multilineTextAlignment(.center)
-                        .padding(30)
+                        .padding(.top, 30)
                     
                     List {
                         
@@ -89,12 +89,12 @@ struct Tips: View {
                                 .font(.custom("GillSans-Bold", fixedSize: 30))
                             
                         }
-                        .frame(width: 230, height: 70)
+                        .frame(width: 230, height: 60)
                         
                     }
                     
                     Spacer()
-                    
+                                        
                 }
                 
             }

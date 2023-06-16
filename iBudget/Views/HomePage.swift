@@ -10,6 +10,7 @@ import SwiftUI
 struct HomePage: View {
     var body: some View {
         ZStack{
+            
             Rectangle()
                 .foregroundColor(Color(red: 0.976, green: 0.963, blue: 0.893))
                 .ignoresSafeArea()
@@ -74,6 +75,7 @@ struct HomePage: View {
        
                
                 }
+        .navigationBarBackButtonHidden(true)
       
        
             

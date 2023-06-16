@@ -374,7 +374,7 @@ struct TipsBudget: View {
 //            .toolbarBackground(Color("mediumYellow"), for: .navigationBar)
 
         }
-        .scrollIndicators(.hidden)
+        .scrollIndicators(.visible)
         .navigationBarBackButtonHidden(true)
         .background(Color("mediumYellow"))
         
